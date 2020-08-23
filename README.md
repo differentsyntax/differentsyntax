@@ -5,6 +5,4 @@
 -->
 ![Mridul Awasthi](https://github.com/differentsyntax/differentsyntax/blob/master/img/mridul.gif)
 
-- 🔭 I’m currently interning at HomeSource Systems
-- 🔭 I’m also the CTO at DribbleHandoff
 - ⚡ Fun fact: I'll make you laugh in the very first interaction!
