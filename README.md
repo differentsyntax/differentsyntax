@@ -5,4 +5,4 @@
 -->
 ![Mridul Awasthi](https://github.com/differentsyntax/differentsyntax/blob/master/img/mridul.gif)
 
-- ⚡ Fun fact: I'll make you laugh in the very first interaction!
+- ⚡ Fun fact: I'll make you laugh in the first 5 sentences I speak to you!
