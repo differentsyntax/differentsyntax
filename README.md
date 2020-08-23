@@ -5,6 +5,8 @@
 -->
 ![Mridul Awasthi](https://github.com/differentsyntax/differentsyntax/blob/master/img/mridul.gif)
 
-- 🔭 I’m currently interning at HomeSource Systems
-- 🔭 I’m also the CTO at DribbleHandoff
-- ⚡ Fun fact: I'll make you laugh in the very first interaction!
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=differentsyntax&count_private=true" />
+</a>
+
+⚡ Fun fact: I'll make you laugh in the first 5 sentences I speak to you!
