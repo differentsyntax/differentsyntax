@@ -3,7 +3,7 @@
 <!--
 **differentsyntax/differentsyntax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-![Mridul Awasthi](/img/mridul.gif)
+![Mridul Awasthi](img/mridul.gif)
 
 - 🔭 I’m currently interning at HomeSource Systems
 - 🔭 I’m also the CTO at DribbleHandoff
