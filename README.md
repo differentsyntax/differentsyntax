@@ -7,7 +7,7 @@
 
 [![Mridul's top stats](https://github-readme-stats.vercel.app/api/top-langs/?username=differentsyntax&count_private=true)](https://github.com/anuraghazra/github-readme-stats) ⚡⚡ <img src="https://github.com/differentsyntax/differentsyntax/blob/master/img/work.png" height= 285 width= 450></img>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=differentsyntax&repo=Safe-adelphia)](https://github.com/anuraghazra/github-readme-stats) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=differentsyntax&repo=HireADragon)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=differentsyntax&repo=Safe-adelphia)](https://github.com/anuraghazra/github-readme-stats) ⚡⚡ [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=differentsyntax&repo=HireADragon)](https://github.com/anuraghazra/github-readme-stats)
 
 ##
 
