@@ -7,6 +7,8 @@
 
 [![Mridul's top stats](https://github-readme-stats.vercel.app/api/top-langs/?username=differentsyntax&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=differentsyntax&repo=Safe-adelphia)](https://github.com/anuraghazra/github-readme-stats) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=differentsyntax&repo=HireADragon)](https://github.com/anuraghazra/github-readme-stats)
+
 ##
 
 ⚡ Fun fact: I'll make you laugh in the first 5 sentences I speak to you!
