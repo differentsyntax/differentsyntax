@@ -3,7 +3,10 @@
 <!--
 **differentsyntax/differentsyntax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+
 ![Mridul Awasthi](https://github.com/differentsyntax/differentsyntax/blob/master/img/mridul.gif)
+
+##
 
 [![Mridul's top stats](https://github-readme-stats.vercel.app/api/top-langs/?username=differentsyntax&count_private=true)](https://github.com/anuraghazra/github-readme-stats) <img src="https://github.com/differentsyntax/differentsyntax/blob/master/img/work.png" height= 285 width= 450></img>
 
