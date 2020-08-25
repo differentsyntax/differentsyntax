@@ -9,7 +9,7 @@
 
 ##
 
-:notebook: Love front-end development but have got more experience server-side 
+:notebook: Love front-end development but have got more experience working server-side 
 
 :blue_heart: Absolutely enjoy working with heavy schema databases, MySQL joins are almost a hobby
 
