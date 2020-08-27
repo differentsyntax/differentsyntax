@@ -12,7 +12,7 @@
 
 :fire: I lead one of the best hackathons across the continent - [DragonHacks](https://www.linkedin.com/company/dragonhacks/)
 
-⚡ Fun fact: I'll make you laugh in the first 5 sentences I speak to you!
+⚡ Fun fact: Always up for a sparky discussion on theories about **Harry Potter, Interstellar** and **Pixar's Coco**!
 
 ##
 
