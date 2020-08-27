@@ -10,7 +10,7 @@
 
 :pencil: Have made multiple web apps but currently learning react-native for mobile app development
 
-:fire: I lead one of the best hackathons across the continent - [DragonHacks](https://www.linkedin.com/company/dragonhacks/)
+:fire: I lead one of the best hackathons across the continent - [DragonHacks](https://www.linkedin.com/company/dragonhacks/); 2021 edition underway.
 
 ⚡ Always up for a sparky discussion on theories about **Harry Potter, Interstellar** and **Pixar's Coco**!
 
