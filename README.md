@@ -12,7 +12,7 @@
 
 :fire: I lead one of the best hackathons across the continent - [DragonHacks](https://www.linkedin.com/company/dragonhacks/); 2021 edition underway.
 
-⚡ Always up for a sparky discussion on theories about **Harry Potter, Interstellar** and **Pixar's Coco**!
+⚡ Always up for a sparky discussion on theories about **Harry Potter, Interstellar** & **Pixar's Coco**!
 
 ##
 
