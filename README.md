@@ -1,4 +1,4 @@
-### Hi there, I'm [Mridul](https://differentsyntax.github.io) 👋
+### Glad you found me, I'm [Mridul](https://differentsyntax.github.io) 👋
 
 <!--
 **differentsyntax/differentsyntax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
